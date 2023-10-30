@@ -7,7 +7,7 @@ Any nesting of schema and data is supported
 yarn add Q-Digital-Dev/validator
 ```
 
-## Пример использования
+## Example
 ```ts
 function testResponse(){
   const schema = {
