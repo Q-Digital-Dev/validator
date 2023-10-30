@@ -2,6 +2,11 @@
 This utility implements functionality for validation of incoming arguments and response from the server according to the scheme.
 Any nesting of schema and data is supported
 
+## Setup
+```sh
+yarn add Q-Digital-Dev/validator
+```
+
 ## Пример использования
 ```ts
 function testResponse(){
